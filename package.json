@@ -1,6 +1,6 @@
 {
     "name": "vi-angular-autofocus",
-    "version": "1.0.0",
+    "version": "1.0.1",
     "description": "AngularJS directive for autofocusing HTML elements",
     "main": "src/autofocus.js",
     "peerDependencies": {

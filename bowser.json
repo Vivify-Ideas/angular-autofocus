@@ -1,7 +1,7 @@
 {
     "name": "vi-angular-autofocus",
     "description": "AngularJS directive for autofocusing HTML elements",
-    "version": "1.0.0",
+    "version": "1.0.1",
     "keywords": [
         "angularjs",
         "html",
