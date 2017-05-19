@@ -14,7 +14,7 @@
 }(this, function (angular) {
     var moduleName = 'vivify-ideas.angular-autofocus';
     var mod = angular.module(moduleName, []);
-    mod.directive('vi-autofocus', ['$timeout', function($timeout) {
+    mod.directive('viAutofocus', ['$timeout', function($timeout) {
         return {
             restrict: 'A',
             link : function($scope, $element) {
