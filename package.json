@@ -1,6 +1,6 @@
 {
     "name": "vi-angular-autofocus",
-    "version": "0.1.0",
+    "version": "1.0.0",
     "description": "AngularJS directive for autofocusing HTML elements",
     "main": "src/autofocus.js",
     "peerDependencies": {
@@ -18,7 +18,7 @@
         "html",
         "focus"
     ],
-    "author": "Danilo Papic",
+    "author": "Vivify Ideas",
     "license": "MIT",
     "bugs": {
         "url": "https://github.com/Vivify-Ideas/angular-autofocus/issues"

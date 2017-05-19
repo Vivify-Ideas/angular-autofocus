@@ -18,7 +18,7 @@ bower install vi-angular-autofocus
 
 Register the module into your main app module
 
-```
+```javascript
 angular.module('myApp', ['vivify-ideas.angular-autofocus']);
 ```
 
@@ -29,7 +29,7 @@ In the template, use the `vi-autofocus` directive:
 ### HTML
 
 ```html
-<input name="name" type="text" autofocus/>
+<input name="name" type="text" vi-autofocus/>
 ```
 
 ---
