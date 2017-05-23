@@ -16,6 +16,12 @@ or
 bower install vi-angular-autofocus
 ```
 
+or
+
+```
+yarn add vi-angular-autofocus
+```
+
 Register the module into your main app module
 
 ```javascript
